@@ -4,7 +4,7 @@
 **Course:** Big Data Systems (Spring 2026, NTU)
 **Date:** 2026-06-17
 
-**GitHub repository:** *https://github.com/r14944026/salaryscope-tw* (to be created on submission)
+**GitHub repository:** https://github.com/colachenkc/salaryscope-tw
 **Live demo:** *(local Streamlit demo; cloud deployment is bonus track — see §8)*
 
 ---
