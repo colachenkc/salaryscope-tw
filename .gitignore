@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Pipeline artifacts that should regenerate from sources
+sample_data/salaryscope.db
+sample_data/raw/
+sample_data/jobs_raw.jsonl
+demand_research/figures/
+
+# PDF stays in the repo (report deliverable)
+# r14944026.pdf is committed.
